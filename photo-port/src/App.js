@@ -7,10 +7,7 @@ function App() {
   return (
     <div>
       <Nav>
-<<<<<<< HEAD
-=======
         
->>>>>>> develop
       </Nav>
       <main>
         <About></About>
