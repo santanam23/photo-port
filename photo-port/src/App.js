@@ -1,11 +1,16 @@
 import React from 'react';
-import Nav from './components/Nav';
 import About from './components/About';
+import Nav from './components/Nav';
 
 function App() {
+
   return (
     <div>
       <Nav>
+<<<<<<< HEAD
+=======
+        
+>>>>>>> develop
       </Nav>
       <main>
         <About></About>
@@ -13,4 +18,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
